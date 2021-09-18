@@ -13,6 +13,19 @@ Tool uses models that were trained on previous Olympic dataset. Dataset was prep
 - [Moli Shah](https://github.com/moli-11)
 - [Saurav](https://github.com/moli-11)
 
+## Working
+
+![](/images/olympic1.png)
+
+For just trying out purpose you can clone the repo and run the `main.py` if you have `pickle` installed on your system.
+
+Run following command to get all the options
+
+```
+$ python main.py -h
+```
+![](./images/olympic2.png)
+
 This dataset and subsequent models were created for [Mini-Project 2k20](https://drishti-svnit.github.io/drishti/events.html), which was conducted by [Drishti Organization](https://github.com/DRISHTI-SVNIT), a technical student chapter of [SVNIT](https://www.svnit.ac.in/).
 
 
